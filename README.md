@@ -1,2 +1,2 @@
 # is-prime
-Check whether the number is prime or not.
+A function for check whether the number is prime or not.
